@@ -1,0 +1,16 @@
+2024-06-19 01:44:41 - INFO - This log entry will go into a uniquely named file for this run.
+2024-06-19 01:44:41 - INFO - Starting LSTM model training...
+2024-06-19 01:44:41 - INFO - Optimizer=Adam
+2024-06-19 01:44:41 - INFO - epochs=500
+2024-06-19 01:44:41 - INFO - batch_size=16
+2024-06-19 01:44:41 - INFO - File=codeExamples.txt
+2024-06-19 01:44:41 - INFO - Learning Rate=0.001
+2024-06-19 01:44:45 - INFO - Starting LSTM model training...
+2024-06-19 01:45:04 - INFO - Epoch 1/500, Loss: 1.5996155950285338
+2024-06-19 01:45:32 - INFO - Epoch 2/500, Loss: 1.428478161056177
+2024-06-19 01:47:59 - INFO - Epoch 3/500, Loss: 1.407892257228687
+2024-06-19 01:48:32 - INFO - Epoch 4/500, Loss: 1.4019329743932127
+2024-06-19 01:49:06 - INFO - Epoch 5/500, Loss: 1.3592499179642374
+2024-06-19 01:49:39 - INFO - Epoch 6/500, Loss: 1.4030296527161312
+2024-06-19 01:50:37 - INFO - Epoch 7/500, Loss: 1.4864130770540058
+2024-06-19 01:51:47 - INFO - Epoch 8/500, Loss: 1.3460695451646814

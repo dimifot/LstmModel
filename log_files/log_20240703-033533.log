@@ -1,0 +1,26 @@
+2024-07-03 03:35:33 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-03 03:35:35 - INFO - withHidden
+2024-07-03 03:35:35 - INFO - valid:3302
+2024-07-03 03:35:35 - INFO - invalid:3304
+2024-07-03 03:35:35 - INFO - Params:
+2024-07-03 03:35:35 - INFO - embedding_dim=128
+2024-07-03 03:35:35 - INFO - hidden_dim:256
+2024-07-03 03:35:35 - INFO - num_layers:2
+2024-07-03 03:35:35 - INFO - epochs:350
+2024-07-03 03:35:35 - INFO - batch_size:64
+2024-07-03 03:35:35 - INFO - lr:0.001
+2024-07-03 03:35:38 - INFO - Starting LSTM model training...
+2024-07-03 03:36:22 - INFO - Epoch: 1/350, Training Loss: 0.010539078416734992
+2024-07-03 03:36:27 - INFO - Epoch: 1/350, Validation Loss: 0.005920279488870592, Accuracy: 99.9235019124522%
+2024-07-03 03:37:12 - INFO - Epoch: 2/350, Training Loss: 0.006989482285799231
+2024-07-03 03:37:16 - INFO - Epoch: 2/350, Validation Loss: 0.006903410302247149, Accuracy: 99.91135935887317%
+2024-07-03 03:38:02 - INFO - Epoch: 3/350, Training Loss: 0.007573538875915362
+2024-07-03 03:38:07 - INFO - Epoch: 3/350, Validation Loss: 0.007422945636179676, Accuracy: 99.90285957136786%
+2024-07-03 03:38:50 - INFO - Epoch: 4/350, Training Loss: 0.0007445519260273123
+2024-07-03 03:38:55 - INFO - Epoch: 4/350, Validation Loss: 0.00016706763581432308, Accuracy: 99.99878574464209%
+2024-07-03 03:39:48 - INFO - Epoch: 5/350, Training Loss: 0.00019357668071673148
+2024-07-03 03:39:53 - INFO - Epoch: 5/350, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:41:02 - INFO - Epoch: 6/350, Training Loss: 0.0
+2024-07-03 03:41:08 - INFO - Epoch: 6/350, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:42:11 - INFO - Epoch: 7/350, Training Loss: 0.0
+2024-07-03 03:42:18 - INFO - Epoch: 7/350, Validation Loss: 0.0, Accuracy: 100.0%

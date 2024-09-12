@@ -1,0 +1,44 @@
+2024-07-03 17:32:13 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-03 17:32:15 - INFO - without hidden
+2024-07-03 17:32:15 - INFO - valid:3302
+2024-07-03 17:32:15 - INFO - invalid:3304
+2024-07-03 17:32:15 - INFO - Params:
+2024-07-03 17:32:15 - INFO - embedding_dim=32
+2024-07-03 17:32:15 - INFO - hidden_dim:32
+2024-07-03 17:32:15 - INFO - num_layers:2
+2024-07-03 17:32:15 - INFO - epochs:10
+2024-07-03 17:32:15 - INFO - batch_size:3000
+2024-07-03 17:32:15 - INFO - lr:0.001
+2024-07-03 17:32:18 - INFO - Starting LSTM model training...
+2024-07-03 17:32:28 - INFO - Epoch: 1/10, Training Loss: 0.2226073138026447
+2024-07-03 17:32:30 - INFO - Epoch: 1/10, Validation Loss: 0.020995418892966376, Accuracy: 99.65182320775807%
+2024-07-03 17:32:30 - INFO - Model saved with validation accuracy: 99.65182320775807%
+2024-07-03 17:32:40 - INFO - Epoch: 2/10, Training Loss: 0.017729335893366466
+2024-07-03 17:32:42 - INFO - Epoch: 2/10, Validation Loss: 0.016524577751341793, Accuracy: 99.67750219026615%
+2024-07-03 17:32:42 - INFO - Model saved with validation accuracy: 99.67750219026615%
+2024-07-03 17:32:52 - INFO - Epoch: 3/10, Training Loss: 0.015434448004800216
+2024-07-03 17:32:53 - INFO - Epoch: 3/10, Validation Loss: 0.015264737616396613, Accuracy: 99.7273496268995%
+2024-07-03 17:32:53 - INFO - Model saved with validation accuracy: 99.7273496268995%
+2024-07-03 17:33:04 - INFO - Epoch: 4/10, Training Loss: 0.014566661308566898
+2024-07-03 17:33:05 - INFO - Epoch: 4/10, Validation Loss: 0.014594582902888457, Accuracy: 99.73037068366514%
+2024-07-03 17:33:05 - INFO - Model saved with validation accuracy: 99.73037068366514%
+2024-07-03 17:33:16 - INFO - Epoch: 5/10, Training Loss: 0.013805736648181906
+2024-07-03 17:33:17 - INFO - Epoch: 5/10, Validation Loss: 0.013833603081810806, Accuracy: 99.73188121204798%
+2024-07-03 17:33:17 - INFO - Model saved with validation accuracy: 99.73188121204798%
+2024-07-03 17:33:27 - INFO - Epoch: 6/10, Training Loss: 0.012110654025280712
+2024-07-03 17:33:29 - INFO - Epoch: 6/10, Validation Loss: 0.007196938895827366, Accuracy: 99.73565753300504%
+2024-07-03 17:33:29 - INFO - Model saved with validation accuracy: 99.73565753300504%
+2024-07-03 17:33:39 - INFO - Epoch: 7/10, Training Loss: 0.005190794123994386
+2024-07-03 17:33:41 - INFO - Epoch: 7/10, Validation Loss: 0.004349273319045703, Accuracy: 99.79532340412676%
+2024-07-03 17:33:41 - INFO - Model saved with validation accuracy: 99.79532340412676%
+2024-07-03 17:33:51 - INFO - Epoch: 8/10, Training Loss: 0.002960685602097251
+2024-07-03 17:33:53 - INFO - Epoch: 8/10, Validation Loss: 0.0015748912979486503, Accuracy: 99.94713150660101%
+2024-07-03 17:33:53 - INFO - Model saved with validation accuracy: 99.94713150660101%
+2024-07-03 17:34:03 - INFO - Epoch: 9/10, Training Loss: 0.0018403525251301932
+2024-07-03 17:34:04 - INFO - Epoch: 9/10, Validation Loss: 0.0012276228856838618, Accuracy: 99.96072626204646%
+2024-07-03 17:34:04 - INFO - Model saved with validation accuracy: 99.96072626204646%
+2024-07-03 17:34:15 - INFO - Epoch: 10/10, Training Loss: 0.0015029638102455696
+2024-07-03 17:34:17 - INFO - Epoch: 10/10, Validation Loss: 0.0010705984624413154, Accuracy: 99.96601311138636%
+2024-07-03 17:34:17 - INFO - Model saved with validation accuracy: 99.96601311138636%
+2024-07-03 17:34:17 - INFO - Finished training model.
+2024-07-03 17:34:17 - INFO - Model saved to lstm_classifier_dc2.pth and vocabulary saved to vocab_dc2.pkl

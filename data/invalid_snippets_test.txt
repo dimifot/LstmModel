@@ -1,0 +1,371 @@
+if x >= z:
+    y = 13.234
+else:
+    z = z * c
+y = 12.582
+if c != a:
+    x = 13.454
+else:
+    z = z * x
+z = 2.937
+-----
+a = 0.945
+while a < 5.292:
+    a = a - c
+a = a * a
+z = z * a
+-----
+a = a * x
+while y < 18.497:
+    a = a + x
+while c < 14.839:
+    x = x / a
+c = c + c
+-----
+if b >= b:
+    a = 8.679
+else:
+    a = a - b
+while x < 7.181:
+    z = z * x
+while x < 17.93:
+    y = y / x
+z = z + c
+-----
+a = 8.849
+while y < 3.06:
+    z = z * b
+if z == b:
+    b = 7.989
+else:
+    a = a + c
+while z < 2.056:
+    x = x - y
+-----
+a = a * b
+if y >= x:
+    b = 2.897
+else:
+    c = c + c
+if c <= c:
+    x = 18.655
+else:
+    y = y - x
+x = 9.693
+-----
+while z < 0.415:
+    a = a - y
+if z >= y:
+    a = 14.444
+else:
+    y = y / x
+while c < 2.274:
+    a = a + y
+if b >= b:
+    b = 10.802
+else:
+    z = z / a
+-----
+y = 3.241
+if c != c:
+    z = 19.459
+else:
+    c = c - y
+while c < 10.677:
+    x = x * z
+a = a / a
+-----
+if b == z:
+    c = 1.189
+else:
+    z = z + b
+b = 17.505
+if y >= x:
+    a = 7.476
+else:
+    b = b * b
+while z < 18.22:
+    c = c - b
+-----
+def func1(b, c):
+    b = 11.904
+    y = y / x
+z = 14.488
+def func3(y, a):
+    x = 4.398
+    y = y / c
+if z > a:
+    x = 18.267
+else:
+    a = a / x
+-----
+y = y - x
+while b < 11.979:
+    a = a * a
+a = a - z
+if z != z:
+    c = 4.513
+else:
+    z = z - z
+-----
+z = z * a
+c = c / x
+x = x / x
+def func1(a):
+    c = 18.898
+    c = c / y
+-----
+while y < 7.795:
+    y = y + b
+def func2(a):
+    a = 4.266
+    c = c + y
+b = b * x
+b = b - x
+-----
+def func3(c):
+    z = 7.274
+    a = a / z
+if c <= a:
+    c = 2.426
+else:
+    a = a + b
+if b <= x:
+    c = 13.758
+else:
+    a = a * c
+a = a - x
+-----
+z = 10.092
+if y > c:
+    a = 7.349
+else:
+    z = z * c
+while x < 5.749:
+    z = z + y
+z = 9.003
+-----
+if y < y:
+    b = 11.759
+else:
+    c = c + b
+if a == z:
+    b = 16.77
+else:
+    a = a / c
+b = b * y
+c = c + c
+-----
+y = 7.101
+while z < 7.076:
+    a = a + z
+y = 10.779
+while c < 7.804:
+    b = b / x
+-----
+z = z - y
+z = z / y
+x = x + z
+while y < 12.716:
+    b = b * y
+-----
+a = a + z
+if z < y:
+    b = 6.354
+else:
+    y = y - z
+z = z + a
+while b < 9.107:
+    c = c * x
+-----
+y = y * z
+c = 11.113
+while z < 18.542:
+    a = a / b
+def func3(a, y):
+    b = 11.705
+    z = z / y
+-----
+b = 7.135
+if a > b:
+    x = 17.366
+else:
+    y = y - a
+while a < 7.115:
+    c = c + y
+def func1(x, a):
+    b = 19.896
+    a = a * z
+-----
+if a != a:
+    c = 9.888
+else:
+    z = z + x
+def func1(x, y):
+    b = 19.82
+    x = x - y
+if z < a:
+    a = 19.654
+else:
+    y = y * c
+if x == y:
+    a = 15.929
+else:
+    b = b / c
+-----
+while b < 7.955:
+    a = a - z
+def func3(c, x):
+    c = 14.876
+    x = x / y
+z = z - z
+def func3(a, y):
+    x = 4.023
+    b = b - z
+-----
+while x < 11.881:
+    b = b / b
+x = 1.431
+def func3(y, a):
+    x = 3.773
+    y = y - y
+if z == x:
+    y = 1.108
+else:
+    z = z * x
+-----
+if c > x:
+    x = 19.139
+else:
+    c = c + b
+def func2(x):
+    x = 0.285
+    y = y / z
+x = 16.29
+if y >= z:
+    z = 19.787
+else:
+    c = c - b
+-----
+while x < 10.796:
+    b = b / y
+def func1(y, x):
+    z = 1.666
+    c = c - y
+def func1(z, c):
+    b = 12.843
+    x = x * a
+while y < 15.106:
+    b = b * x
+-----
+if a < c:
+    x = 3.597
+else:
+    y = y + a
+x = 14.612
+x = 5.013
+a = 17.607
+-----
+def func2(y, b):
+    c = 2.453
+    b = b / c
+def func2(a):
+    b = 6.338
+    c = c + y
+def func1(a):
+    a = 12.498
+    y = y - a
+z = z + z
+-----
+def func1(c):
+    b = 11.015
+    c = c * x
+b = 9.813
+def func1(y, x):
+    y = 15.431
+    y = y / z
+a = a / b
+-----
+if y > c:
+    a = 0.875
+else:
+    x = x / x
+while y < 7.222:
+    b = b / a
+def func3(x):
+    c = 5.871
+    x = x / z
+if c == a:
+    z = 2.192
+else:
+    b = b - x
+-----
+def func1(b):
+    z = 19.355
+    y = y - y
+if z >= c:
+    x = 2.868
+else:
+    c = c / c
+if z >= x:
+    b = 15.856
+else:
+    y = y / y
+def func1(z):
+    c = 2.137
+    b = b * c
+-----
+if c <= x:
+    a = 0.535
+else:
+    z = z + c
+while b < 12.99:
+    y = y + y
+c = 1.667
+c = 19.582
+-----
+if a < c:
+    b = 5.276
+else:
+    z = z * y
+def func3(x):
+    x = 1.072
+    c = c / x
+if c > b:
+    x = 17.613
+else:
+    c = c * x
+y = 16.931
+-----
+if z < x:
+    z = 3.008
+else:
+    y = y + x
+y = y * b
+c = 18.397
+def func2(b, c):
+    y = 16.607
+    b = b - x
+-----
+while x < 11.689:
+    a = a - a
+while c < 12.995:
+    x = x - x
+while c < 7.729:
+    b = b + c
+x = x + c
+-----
+if a < y:
+    x = 14.681
+else:
+    a = a + a
+x = x - b
+if x != a:
+    y = 8.382
+else:
+    x = x + a
+if c == y:
+    z = 7.27
+else:
+    a = a + b
+-----

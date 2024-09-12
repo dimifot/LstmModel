@@ -1,0 +1,12 @@
+2024-07-03 03:38:44 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-03 03:38:46 - INFO - without hidden
+2024-07-03 03:38:46 - INFO - valid:3302
+2024-07-03 03:38:46 - INFO - invalid:3304
+2024-07-03 03:38:46 - INFO - Params:
+2024-07-03 03:38:46 - INFO - embedding_dim=128
+2024-07-03 03:38:46 - INFO - hidden_dim:256
+2024-07-03 03:38:46 - INFO - num_layers:2
+2024-07-03 03:38:46 - INFO - epochs:350
+2024-07-03 03:38:46 - INFO - batch_size:64
+2024-07-03 03:38:46 - INFO - lr:0.001
+2024-07-03 03:38:50 - INFO - Starting LSTM model training...

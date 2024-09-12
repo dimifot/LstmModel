@@ -1,0 +1,9 @@
+2024-06-27 00:44:09 - INFO - This log entry will go into a uniquely named file for this run.
+2024-06-27 00:44:09 - INFO - Params:
+2024-06-27 00:44:09 - INFO - embedding_dim=32
+2024-06-27 00:44:09 - INFO - hidden_dim:64
+2024-06-27 00:44:09 - INFO - num_layers:2
+2024-06-27 00:44:09 - INFO - epochs:200
+2024-06-27 00:44:09 - INFO - batch_size:64
+2024-06-27 00:44:09 - INFO - lr:0.001
+2024-06-27 00:44:13 - INFO - Starting LSTM model training...

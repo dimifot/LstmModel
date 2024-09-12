@@ -1,0 +1,8 @@
+2024-06-19 01:45:39 - INFO - This log entry will go into a uniquely named file for this run.
+2024-06-19 01:45:39 - INFO - Starting LSTM model training...
+2024-06-19 01:45:39 - INFO - Optimizer=Adam
+2024-06-19 01:45:39 - INFO - epochs=1000
+2024-06-19 01:45:39 - INFO - batch_size=32
+2024-06-19 01:45:39 - INFO - File=codeExamples.txt
+2024-06-19 01:45:39 - INFO - Learning Rate=0.01
+2024-06-19 01:46:03 - INFO - Starting LSTM model training...

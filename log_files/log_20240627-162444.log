@@ -1,0 +1,21 @@
+2024-06-27 16:24:44 - INFO - This log entry will go into a uniquely named file for this run.
+2024-06-27 16:24:44 - INFO - Params:
+2024-06-27 16:24:44 - INFO - embedding_dim=128
+2024-06-27 16:24:44 - INFO - hidden_dim:256
+2024-06-27 16:24:44 - INFO - num_layers:2
+2024-06-27 16:24:44 - INFO - epochs:5
+2024-06-27 16:24:44 - INFO - batch_size:64
+2024-06-27 16:24:44 - INFO - lr:0.001
+2024-06-27 16:24:48 - INFO - Starting LSTM model training...
+2024-06-27 16:24:52 - INFO - Epoch: 1/5, Training Loss: 0.6932654430468878
+2024-06-27 16:24:52 - INFO - Epoch: 1/5, Validation Loss: 0.6917421952182171, Accuracy: 52.71222801103279%
+2024-06-27 16:24:56 - INFO - Epoch: 2/5, Training Loss: 0.6921842047104648
+2024-06-27 16:24:56 - INFO - Epoch: 2/5, Validation Loss: 0.6919344137696659, Accuracy: 52.71222801103279%
+2024-06-27 16:25:00 - INFO - Epoch: 3/5, Training Loss: 0.69234786956918
+2024-06-27 16:25:00 - INFO - Epoch: 3/5, Validation Loss: 0.6917461793796689, Accuracy: 52.71222801103279%
+2024-06-27 16:25:04 - INFO - Epoch: 4/5, Training Loss: 0.6923463062620631
+2024-06-27 16:25:04 - INFO - Epoch: 4/5, Validation Loss: 0.692089192423166, Accuracy: 52.71222801103279%
+2024-06-27 16:25:08 - INFO - Epoch: 5/5, Training Loss: 0.6923017503291953
+2024-06-27 16:25:08 - INFO - Epoch: 5/5, Validation Loss: 0.6922797782748353, Accuracy: 52.52834814587803%
+2024-06-27 16:25:08 - INFO - Finished training model.
+2024-06-27 16:25:09 - INFO - Model saved to lstm_classifier3.pth and vocabulary saved to vocab.pkl

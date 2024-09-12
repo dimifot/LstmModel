@@ -1,0 +1,114 @@
+2024-07-03 03:44:05 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-03 03:44:07 - INFO - without hidden
+2024-07-03 03:44:07 - INFO - valid:3302
+2024-07-03 03:44:07 - INFO - invalid:3304
+2024-07-03 03:44:07 - INFO - Params:
+2024-07-03 03:44:07 - INFO - embedding_dim=128
+2024-07-03 03:44:07 - INFO - hidden_dim:256
+2024-07-03 03:44:07 - INFO - num_layers:2
+2024-07-03 03:44:07 - INFO - epochs:50
+2024-07-03 03:44:07 - INFO - batch_size:64
+2024-07-03 03:44:07 - INFO - lr:0.001
+2024-07-03 03:44:10 - INFO - Starting LSTM model training...
+2024-07-03 03:45:01 - INFO - Epoch: 1/50, Training Loss: 0.027739232099230755
+2024-07-03 03:45:05 - INFO - Epoch: 1/50, Validation Loss: 2.4661818716901e-06, Accuracy: 100.0%
+2024-07-03 03:45:49 - INFO - Epoch: 2/50, Training Loss: 7.068513161505044e-07
+2024-07-03 03:45:53 - INFO - Epoch: 2/50, Validation Loss: 1.0143910284594111e-07, Accuracy: 100.0%
+2024-07-03 03:46:36 - INFO - Epoch: 3/50, Training Loss: 2.7388624350498336e-08
+2024-07-03 03:46:41 - INFO - Epoch: 3/50, Validation Loss: 4.3418299258943e-12, Accuracy: 100.0%
+2024-07-03 03:47:23 - INFO - Epoch: 4/50, Training Loss: 1.4472766419647665e-12
+2024-07-03 03:47:28 - INFO - Epoch: 4/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:48:10 - INFO - Epoch: 5/50, Training Loss: 0.0
+2024-07-03 03:48:15 - INFO - Epoch: 5/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:48:59 - INFO - Epoch: 6/50, Training Loss: 0.0
+2024-07-03 03:49:04 - INFO - Epoch: 6/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:49:48 - INFO - Epoch: 7/50, Training Loss: 0.0
+2024-07-03 03:49:52 - INFO - Epoch: 7/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:50:35 - INFO - Epoch: 8/50, Training Loss: 0.0
+2024-07-03 03:50:40 - INFO - Epoch: 8/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:51:23 - INFO - Epoch: 9/50, Training Loss: 0.0
+2024-07-03 03:51:28 - INFO - Epoch: 9/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:52:11 - INFO - Epoch: 10/50, Training Loss: 0.0
+2024-07-03 03:52:16 - INFO - Epoch: 10/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:52:59 - INFO - Epoch: 11/50, Training Loss: 0.0
+2024-07-03 03:53:04 - INFO - Epoch: 11/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:53:46 - INFO - Epoch: 12/50, Training Loss: 0.0
+2024-07-03 03:53:51 - INFO - Epoch: 12/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:54:34 - INFO - Epoch: 13/50, Training Loss: 0.0
+2024-07-03 03:54:39 - INFO - Epoch: 13/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:55:22 - INFO - Epoch: 14/50, Training Loss: 0.0
+2024-07-03 03:55:27 - INFO - Epoch: 14/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:56:10 - INFO - Epoch: 15/50, Training Loss: 0.0
+2024-07-03 03:56:15 - INFO - Epoch: 15/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:56:58 - INFO - Epoch: 16/50, Training Loss: 0.0
+2024-07-03 03:57:03 - INFO - Epoch: 16/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:57:46 - INFO - Epoch: 17/50, Training Loss: 0.0
+2024-07-03 03:57:50 - INFO - Epoch: 17/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:58:33 - INFO - Epoch: 18/50, Training Loss: 0.0
+2024-07-03 03:58:37 - INFO - Epoch: 18/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 03:59:20 - INFO - Epoch: 19/50, Training Loss: 0.0
+2024-07-03 03:59:25 - INFO - Epoch: 19/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:00:08 - INFO - Epoch: 20/50, Training Loss: 0.0
+2024-07-03 04:00:12 - INFO - Epoch: 20/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:00:56 - INFO - Epoch: 21/50, Training Loss: 0.0
+2024-07-03 04:01:01 - INFO - Epoch: 21/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:01:45 - INFO - Epoch: 22/50, Training Loss: 0.0
+2024-07-03 04:01:50 - INFO - Epoch: 22/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:02:33 - INFO - Epoch: 23/50, Training Loss: 0.0
+2024-07-03 04:02:37 - INFO - Epoch: 23/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:03:20 - INFO - Epoch: 24/50, Training Loss: 0.0
+2024-07-03 04:03:25 - INFO - Epoch: 24/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:04:07 - INFO - Epoch: 25/50, Training Loss: 0.0
+2024-07-03 04:04:12 - INFO - Epoch: 25/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:04:54 - INFO - Epoch: 26/50, Training Loss: 0.0
+2024-07-03 04:04:59 - INFO - Epoch: 26/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:05:42 - INFO - Epoch: 27/50, Training Loss: 0.0
+2024-07-03 04:05:47 - INFO - Epoch: 27/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:06:30 - INFO - Epoch: 28/50, Training Loss: 0.0
+2024-07-03 04:06:35 - INFO - Epoch: 28/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:07:18 - INFO - Epoch: 29/50, Training Loss: 0.0
+2024-07-03 04:07:23 - INFO - Epoch: 29/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:08:06 - INFO - Epoch: 30/50, Training Loss: 0.0
+2024-07-03 04:08:11 - INFO - Epoch: 30/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:08:54 - INFO - Epoch: 31/50, Training Loss: 0.0
+2024-07-03 04:08:58 - INFO - Epoch: 31/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:09:42 - INFO - Epoch: 32/50, Training Loss: 0.0
+2024-07-03 04:09:46 - INFO - Epoch: 32/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:10:29 - INFO - Epoch: 33/50, Training Loss: 0.0
+2024-07-03 04:10:33 - INFO - Epoch: 33/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:11:16 - INFO - Epoch: 34/50, Training Loss: 0.0
+2024-07-03 04:11:21 - INFO - Epoch: 34/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:12:04 - INFO - Epoch: 35/50, Training Loss: 0.0
+2024-07-03 04:12:08 - INFO - Epoch: 35/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:12:51 - INFO - Epoch: 36/50, Training Loss: 0.0
+2024-07-03 04:12:56 - INFO - Epoch: 36/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:13:40 - INFO - Epoch: 37/50, Training Loss: 0.0
+2024-07-03 04:13:45 - INFO - Epoch: 37/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:14:28 - INFO - Epoch: 38/50, Training Loss: 0.0
+2024-07-03 04:14:33 - INFO - Epoch: 38/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:15:16 - INFO - Epoch: 39/50, Training Loss: 0.0
+2024-07-03 04:15:21 - INFO - Epoch: 39/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:16:04 - INFO - Epoch: 40/50, Training Loss: 0.0
+2024-07-03 04:16:09 - INFO - Epoch: 40/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:16:51 - INFO - Epoch: 41/50, Training Loss: 0.0
+2024-07-03 04:16:56 - INFO - Epoch: 41/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:17:39 - INFO - Epoch: 42/50, Training Loss: 0.0
+2024-07-03 04:17:43 - INFO - Epoch: 42/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:18:26 - INFO - Epoch: 43/50, Training Loss: 0.0
+2024-07-03 04:18:31 - INFO - Epoch: 43/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:19:15 - INFO - Epoch: 44/50, Training Loss: 0.0
+2024-07-03 04:19:20 - INFO - Epoch: 44/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:20:04 - INFO - Epoch: 45/50, Training Loss: 0.0
+2024-07-03 04:20:08 - INFO - Epoch: 45/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:20:51 - INFO - Epoch: 46/50, Training Loss: 0.0
+2024-07-03 04:20:56 - INFO - Epoch: 46/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:21:39 - INFO - Epoch: 47/50, Training Loss: 0.0
+2024-07-03 04:21:44 - INFO - Epoch: 47/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:22:26 - INFO - Epoch: 48/50, Training Loss: 0.0
+2024-07-03 04:22:31 - INFO - Epoch: 48/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:23:14 - INFO - Epoch: 49/50, Training Loss: 0.0
+2024-07-03 04:23:18 - INFO - Epoch: 49/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:24:01 - INFO - Epoch: 50/50, Training Loss: 0.0
+2024-07-03 04:24:06 - INFO - Epoch: 50/50, Validation Loss: 0.0, Accuracy: 100.0%
+2024-07-03 04:24:06 - INFO - Finished training model.
+2024-07-03 04:24:06 - INFO - Model saved to lstm_classifier_dc2.pth and vocabulary saved to vocab.pkl

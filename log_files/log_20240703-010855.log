@@ -1,0 +1,8 @@
+2024-07-03 01:08:55 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-03 01:08:56 - INFO - Params:
+2024-07-03 01:08:56 - INFO - embedding_dim=128
+2024-07-03 01:08:56 - INFO - hidden_dim:256
+2024-07-03 01:08:56 - INFO - num_layers:2
+2024-07-03 01:08:56 - INFO - epochs:350
+2024-07-03 01:08:56 - INFO - batch_size:64
+2024-07-03 01:08:56 - INFO - lr:0.001

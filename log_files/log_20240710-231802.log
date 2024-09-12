@@ -1,0 +1,30 @@
+2024-07-10 23:18:02 - INFO - This log entry will go into a uniquely named file for this run.
+2024-07-10 23:18:06 - INFO - Starting LSTM model training...
+2024-07-10 23:18:12 - INFO - Epoch: 1/300, Training Loss: 0.04276271013112361
+2024-07-10 23:18:13 - INFO - Epoch: 1/300, Validation Loss: 0.00034596213010230285, Accuracy: 99.99373119358074%
+2024-07-10 23:18:18 - INFO - Epoch: 2/300, Training Loss: 0.00010173099363055827
+2024-07-10 23:18:19 - INFO - Epoch: 2/300, Validation Loss: 2.5629556525772987e-05, Accuracy: 100.0%
+2024-07-10 23:18:25 - INFO - Epoch: 3/300, Training Loss: 0.0014540242525703647
+2024-07-10 23:18:25 - INFO - Epoch: 3/300, Validation Loss: 5.030071657303327e-05, Accuracy: 100.0%
+2024-07-10 23:18:31 - INFO - Epoch: 4/300, Training Loss: 1.6894358502936018e-05
+2024-07-10 23:18:31 - INFO - Epoch: 4/300, Validation Loss: 5.379555235838904e-06, Accuracy: 100.0%
+2024-07-10 23:18:37 - INFO - Epoch: 5/300, Training Loss: 3.2214662508666055e-06
+2024-07-10 23:18:37 - INFO - Epoch: 5/300, Validation Loss: 1.6207755956902055e-06, Accuracy: 100.0%
+2024-07-10 23:18:43 - INFO - Epoch: 6/300, Training Loss: 1.0342077335618276e-06
+2024-07-10 23:18:44 - INFO - Epoch: 6/300, Validation Loss: 5.48319283421471e-07, Accuracy: 100.0%
+2024-07-10 23:18:50 - INFO - Epoch: 7/300, Training Loss: 3.549052497193661e-07
+2024-07-10 23:18:51 - INFO - Epoch: 7/300, Validation Loss: 1.9609657006107982e-07, Accuracy: 100.0%
+2024-07-10 23:18:58 - INFO - Epoch: 8/300, Training Loss: 1.296074100356153e-07
+2024-07-10 23:18:59 - INFO - Epoch: 8/300, Validation Loss: 5.260572148365454e-08, Accuracy: 100.0%
+2024-07-10 23:19:06 - INFO - Epoch: 9/300, Training Loss: 3.208697612306426e-08
+2024-07-10 23:19:07 - INFO - Epoch: 9/300, Validation Loss: 3.273626008881146e-09, Accuracy: 100.0%
+2024-07-10 23:19:14 - INFO - Epoch: 10/300, Training Loss: 1.4079533744395973e-09
+2024-07-10 23:19:15 - INFO - Epoch: 10/300, Validation Loss: 1.493101783383142e-10, Accuracy: 100.0%
+2024-07-10 23:19:22 - INFO - Epoch: 11/300, Training Loss: 1.1017146365347266e-10
+2024-07-10 23:19:23 - INFO - Epoch: 11/300, Validation Loss: 4.479305859650573e-11, Accuracy: 100.0%
+2024-07-10 23:19:30 - INFO - Epoch: 12/300, Training Loss: 2.6142384720365238e-11
+2024-07-10 23:19:30 - INFO - Epoch: 12/300, Validation Loss: 1.493102146041164e-11, Accuracy: 100.0%
+2024-07-10 23:19:37 - INFO - Epoch: 13/300, Training Loss: 5.6019397419362e-12
+2024-07-10 23:19:38 - INFO - Epoch: 13/300, Validation Loss: 7.465511175184988e-12, Accuracy: 100.0%
+2024-07-10 23:19:45 - INFO - Epoch: 14/300, Training Loss: 1.8673133215124356e-12
+2024-07-10 23:19:46 - INFO - Epoch: 14/300, Validation Loss: 0.0, Accuracy: 100.0%
